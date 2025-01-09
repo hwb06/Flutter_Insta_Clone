@@ -1,16 +1,21 @@
-# flutter_travel_app
+# Flutter_Insta_Clone
+ 
+## **Project Description**
 
-A new Flutter project.
+♥ A sleek and minimal Instagram profile UI showcasing posts, followers, and following with an aesthetic design. Perfect for profile layout inspiration!
 
-## Getting Started
+## ♥ **Bᴜɪʟᴛ Wɪᴛʜ**:
+- 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 & 𝗗𝗮𝗿𝘁 for sleek, cross-platform functionality. 
 
-This project is a starting point for a Flutter application.
+- This is a UI-only implementation meant to showcase Flutter interface design capabilities.
 
-A few resources to get you started if this is your first Flutter project:
+## **App UIs Screenshots**
+Here are some screenshots of the app:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Main Screen](https://github.com/hwb06/Flutter_Insta_Clone/blob/main/Insta%20Clone%20UI.JPG?raw=true)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## **Contact Information**
+If you have any questions or feedback, feel free to reach out:
+
+- Email: hussnainwaheed864@gmail.com
+- GitHub: [@hwb06](https://github.com/hwb06)
